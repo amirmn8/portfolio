@@ -1,15 +1,8 @@
 # 🎉 Welcome to My Projects!  
 
-Hi there! 👋 I'm excited to share my work with you. Below, you'll find details about **Vira Mobile Bank - Admin Panel**, one of my projects built with Vue.js 3 and Vuetify. Feel free to explore, check out the code, and connect with me if you have any questions!  
+Hi there! 👋 I'm excited to share my work with you. Below, you'll find details about my projects. Feel free to explore and connect with me if you have any questions!  
 
 -------------------
-
-
-
-
-
-
-
 
 # 🚀 Vira Mobile Bank - Admin Panel  
 
