@@ -32,4 +32,29 @@ You can see some pages of this panel at this link:
 
 ---
 
+
+
+
+# 🚀 TeleportX - Admin Panel  
+
+Coming Soon...
+
+# 🚀 TeleportX - User Panel  and PWA
+
+Coming Soon...
+
+# 🚀 Etha - Admin Panel  
+
+Coming Soon...
+
+# 🚀 MoneyEx - Crypto Exchange
+
+Coming Soon...
+
+# 🚀 BugBuni
+
+Coming Soon...
+
+
+
 🔗 *Feel free to explore more of my projects and connect with me!*  
